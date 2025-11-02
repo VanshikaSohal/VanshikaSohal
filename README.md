@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,vscode,html,css,js,react,flask,fastapi,mongodb,sqlite,pandas,numpy,matplotlib,scikitlearn,git,github&theme=dark" alt="Tech Stack Icons" width="90%" />
 </p>
 
- ---
+---
 
 ### 🚀 Projects
 Here are some of my featured projects:
@@ -31,11 +31,12 @@ Here are some of my featured projects:
 - 🤖 [EMI and Loan Prediction Project](https://github.com/VanshikaSohal/PREDICTION)
 - ⚡ [Sorting Algorithm Benchmark](https://github.com/VanshikaSohal/Sorting-Algorithm-Benchmark)
 - 🧭 [LEAD Website](https://github.com/LEAD-Society-Thapar/LEAD_website)
+
 ---
 
 ### 🌱 About Me
-- 👩‍💻 I’m a **B.Tech CSE student** passionate about **AI/ML, DSA, and Full Stack Development**.  
-- 💡 Currently exploring **Flask, FastAPI, and Machine Learning **.  
+- 👩‍💻 I’m a **B.Tech CSE student** passionate about **AI/ML**, **DSA**, and **Full Stack Development**.  
+- 💡 Currently exploring **Flask**, **FastAPI**, and **Machine Learning**.  
 - 🌸 I enjoy building **projects that blend creativity with logic** and contribute to real-world impact.  
 
 ---
