@@ -28,7 +28,7 @@
 ### 🚀 Projects
 Here are some of my featured projects:
 - 🛍️ [MYNTRA CLONE (HTML, CSS, JS)](https://github.com/VanshikaSohal/MYNTRA-CLONE-HTML-CSS-JS-)
-- 🤖 [EMI and Loan Prediction Project](https://github.com/VanshikaSohal/PREDICTION)
+- 🤖 [EMI and Loan Prediction Project](https://github.com/VanshikaSohal/EMI-AND-LOAN-PREDICTION)
 - ⚡ [Sorting Algorithm Benchmark](https://github.com/VanshikaSohal/Sorting-Algorithm-Benchmark)
 
 ---
