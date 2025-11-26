@@ -3,7 +3,6 @@
 
 ---
 
-
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VanshikaSohal&theme=radical&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
@@ -14,7 +13,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VanshikaSohal&show_icons=true&theme=radical" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshikaSohal&layout=compact&theme=radical" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshikaSohal&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
 
 ---
@@ -37,7 +36,7 @@ Here are some of my featured projects:
 ### 🌱 About Me
 - 👩‍💻 I’m a **B.Tech CSE student** passionate about **AI/ML**, **DSA**, and **Full Stack Development**.  
 - 💡 Currently exploring **Flask**, **FastAPI**, and **Machine Learning**.  
-- 🌸 I enjoy building **projects that blend creativity with logic** and contribute to real-world impact.  
+- 🌸 I enjoy building **projects that blend creativity with logic** and have a **real-world impact**.  
 
 ---
 
@@ -51,7 +50,7 @@ Here are some of my featured projects:
 </p>
 
 <p align="center">
-📞 <strong>Contact:</strong> 9459970748
+📞 <strong>Contact:</strong> +91 9459970748
 </p>
 
 ---
