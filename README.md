@@ -58,7 +58,7 @@ Here are some of my featured projects:
 🕉️ <em>“कर्मण्येवाधिकारस्ते मा फलेषु कदाचन”</em>  
 <br>
 <sub>(You have the right to work, but not to the fruits thereof.)</sub>
-</p>
+</p> 
 
 ---
 
