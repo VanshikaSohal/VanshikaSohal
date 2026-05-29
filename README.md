@@ -26,8 +26,12 @@
 
 ### 🚀 Projects
 Here are some of my featured projects:
+- 🤖[VIDEOTRACKING USING KF AND DIFFUSIONMODELS](https://github.com/VanshikaSohal/VIDEOTRACKING)
 - 🤖 [EMI and Loan Prediction Project](https://github.com/VanshikaSohal/EMI-AND-LOAN-PREDICTION)
-- ⚡ [Sorting Algorithm Benchmark](https://github.com/VanshikaSohal/Sorting-Algorithm-Benchmark)
+- 🤖 [SIH HACKATHON 2025](https://github.com/VanshikaSohal/ARYAVARTTA-SIH)
+- 🤖[PREDICTOR FOR MALARIA CELLS USING CNN](https://github.com/VanshikaSohal/Predictor-for-Malaria-Cells)
+- 🤖[STUDENT FACULTY MANAGEMENT SYSTEM](https://github.com/ashish112122/student_faculty_management_system)
+ 
 
 ---
 
