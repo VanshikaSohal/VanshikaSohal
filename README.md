@@ -1,7 +1,7 @@
  <h1 align="center">Hi, I'm Vanshika Sohal</h1>  
 
 ---
-  
+   
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VanshikaSohal&theme=radical&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
