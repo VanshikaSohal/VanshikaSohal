@@ -26,9 +26,10 @@
 
 ### 🚀 Projects
 Here are some of my featured projects:
-- 🤖[VIDEOTRACKING USING KF AND DIFFUSIONMODELS](https://github.com/VanshikaSohal/VIDEOTRACKING)
-- 🤖 [EMI and Loan Prediction Project](https://github.com/VanshikaSohal/EMI-AND-LOAN-PREDICTION)
-- 🤖 [SIH HACKATHON 2025](https://github.com/VanshikaSohal/ARYAVARTTA-SIH)
+- 🤖[VIDEOTRACKING](https://github.com/VanshikaSohal/VIDEOTRACKING)
+- 🤖[STOCK MARKET ANALYSIS](https://github.com/VanshikaSohal/Stockmarket)
+- 🤖[EMI and Loan Prediction Project](https://github.com/VanshikaSohal/EMI-AND-LOAN-PREDICTION)
+- 🤖[SIH HACKATHON 2025](https://github.com/VanshikaSohal/ARYAVARTTA-SIH)
 - 🤖[PREDICTOR FOR MALARIA CELLS USING CNN](https://github.com/VanshikaSohal/Predictor-for-Malaria-Cells)
 - 🤖[STUDENT FACULTY MANAGEMENT SYSTEM](https://github.com/ashish112122/student_faculty_management_system)
  
@@ -39,7 +40,7 @@ Here are some of my featured projects:
 - 👩‍💻 I’m a **B.Tech CSE student** passionate about **AI/ML**, **DSA**, and **Full Stack Development**.  
 - 💡 Currently exploring **Flask**, **FastAPI**, and **Machine Learning**.  
 - 🌸 I enjoy building **projects that blend creativity with logic** and contribute to **real-world impact**.  
-
+   Batch:2024-2028
 ---
 
 ### 📫 Connect with Me
