@@ -2,8 +2,6 @@
 
 ### AI/ML Engineering Student • Computer Vision • Deep Learning
 
-![Profile Views](https://komarev.com/ghpvc/?username=VanshikaSohal&label=Profile%20Views&color=0e75b6&style=flat)
-
 ---
 
 ## 💫 About Me
