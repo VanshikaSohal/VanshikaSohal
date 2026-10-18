@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-- 🎓 B.Tech Computer Science and Engineering student at **Thapar Institute of Engineering & Technology**, Patiala
+- 🎓 3rd Year B.Tech Computer Science and Engineering student at **Thapar Institute of Engineering & Technology**, Patiala
 - 🤖 Passionate about **Machine Learning, Deep Learning, and Computer Vision**
 - 🔬 Exploring research in **Multi-Object Tracking, Bayesian Inference, and Diffusion Models**
 - 🧠 Building practical AI systems with an emphasis on experimentation, model evaluation, and explainability
